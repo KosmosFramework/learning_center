@@ -13,3 +13,5 @@ The Designer Query Discriminator (DQD): Classifies where systems come from—nat
 The Observer’s Collapse Function (OCF): Predicts system persistence by analyzing neurobiologically-grounded belief dependence, informed by the classification from DQD analysis
 
 This sequence matters enormously because starting with structure prevents analytical bias. One can’t accurately score “Distributed Agency” without first mapping where decisions actually get made. And one can’t predict collapse probability without first understanding whether problems stem from artificial design choices versus natural adaptation challenges.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61QYZFM)
