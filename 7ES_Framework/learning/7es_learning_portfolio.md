@@ -1,4 +1,4 @@
-# 7ES Learning Portfolio
+# 7ES Learning Portfolio - (Updated: 03-11-2026 - Old version targeted originally to be  DEAL Tool. Needs review and updates CAlden)
 ## A Systems Grammar for Regenerative Economics Transformation
 
 ### Introduction to Your Learning Journey
