@@ -1,7 +1,7 @@
 # 7ES Learning Portfolio - (Updated: 03-11-2026 - Old version targeted originally to be  DEAL Tool. Needs review and updates CAlden)
 ## A Systems Grammar for Regenerative Economics Transformation
 
-### Introduction to Your Learning Journey
+### Introduction to Your Learning Journey 
 
 The 7ES (Element Structure) Framework is the foundational "systems grammar" of the KOSMOS methodology. By defining systems through seven universal elements—Input, Output, Processing, Controls, Feedback, Interface, and Environment—it provides a language accessible to scientists, technologists, and theorists alike.
 
