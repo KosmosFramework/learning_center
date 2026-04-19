@@ -15,3 +15,11 @@ The Observer’s Collapse Function (OCF): Predicts system persistence by analyzi
 This sequence matters enormously because starting with structure prevents analytical bias. One can’t accurately score “Distributed Agency” without first mapping where decisions actually get made. And one can’t predict collapse probability without first understanding whether problems stem from artificial design choices versus natural adaptation challenges.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61QYZFM)
+
+
+## License
+
+The written content, documentation, and reference materials in this repository are licensed under the
+[Creative Commons Attribution 4.0 International License](LICENSE).
+
+Copyright © 2025-2026 Clinton Alden / KOSMOS Institute of Systems Theory.
